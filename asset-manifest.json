@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NekoooooDex/static/css/main.2c81b197.css",
+    "main.js": "/NekoooooDex/static/js/main.31c36905.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/NekoooooDex/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/NekoooooDex/index.html",
+    "main.2c81b197.css.map": "/NekoooooDex/static/css/main.2c81b197.css.map",
+    "main.31c36905.js.map": "/NekoooooDex/static/js/main.31c36905.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/NekoooooDex/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c81b197.css",
+    "static/js/main.31c36905.js"
+  ]
+}
